@@ -1,0 +1,7 @@
+# #表示注释
+
+# 忽略 node_modules 文件夹
+node_modules
+
+# 忽略 package-lock.json
+package-lock.json
